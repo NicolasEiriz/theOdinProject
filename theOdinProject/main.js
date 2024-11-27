@@ -1,8 +1,5 @@
-// Objects
-
-let user = {
-    name: 'John',
-    age: 30
+let obj = {
+  0: 'test'
 }
 
-
+console.log(obj['0'])
