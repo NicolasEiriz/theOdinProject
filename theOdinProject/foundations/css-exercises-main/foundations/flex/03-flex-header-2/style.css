@@ -46,3 +46,25 @@ a {
 ul {
   list-style-type: none;
 }
+.container{
+  display: flex;
+  align-items: center;
+}
+header{
+  display: flex;
+justify-content: space-between;
+}
+
+.containerOne{
+  display: flex;
+  margin-right: auto;
+}
+
+ul{
+  display: flex;
+  gap: 15px;
+}
+.containerTwo{
+  display: flex;
+  gap: 12px;
+}
